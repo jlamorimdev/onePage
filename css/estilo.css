@@ -21,3 +21,9 @@
   -moz-transition: all .50s ease-in-out;
   -webkit-transition: all .50s ease-in-out;
 }
+
+/* Sessão de serviços */
+
+.bg-servicos {
+  background: linear-gradient(131.26deg,#312b45 30%, #ff3859 100%);
+}
